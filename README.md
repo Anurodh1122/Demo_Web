@@ -24,10 +24,3 @@ It showcases the platform's hero section, step-by-step process, and platform ove
 
 ---
 
-## Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/talent-squad-demo.git
-cd talent-squad-demo
